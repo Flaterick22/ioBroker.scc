@@ -1,6 +1,6 @@
 {
   "name": "iobroker.scc",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "PV-Überschuss-Steuerung: Batterien priorisieren, dann Geräte schalten, Rest ins Netz",
   "author": "ioBroker",
   "license": "MIT",
@@ -19,7 +19,7 @@
     "url": "git+https://github.com/znyde87/ioBroker.scc.git"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   },
   "main": "main.js",
   "dependencies": {
